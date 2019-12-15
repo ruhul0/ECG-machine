@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-#define WIFISSID "A.R" // Put your WifiSSID here
-#define PASSWORD "12345678" // Put your wifi password here
+#define WIFISSID "ruhul0" // Put your WifiSSID here
+#define PASSWORD "11223344" // Put your wifi password here
 #define TOKEN "BBFF-KkasLWpYbEVsSznXaCKJbo9B60fgEC" // Put your Ubidots' TOKEN
 #define MQTT_CLIENT_NAME "Ruhul0" // MQTT client Name, please enter your own 8-12 alphanumeric character ASCII string; 
                                            //it should be a random and unique ascii string and different from all other devices
